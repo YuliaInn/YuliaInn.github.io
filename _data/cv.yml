@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yulia I. Nussbaum
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th July 1988
     - name: Languages
-      value: English, German
+      value: English, Russian, Sakha
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Missouri, Columbia
+      year: 2024
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +21,24 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Public Health
+      institution: University of Missouri, Columbia
+      year: 2018
       description:
         - Description 1.
         - Description 2.
+    - title: Master of Management
+      institution: North-Eastern Federal Univesity, Yakutsk, Russia
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.   
+    - title: Environmental Engineering
+      institution: Gubkin Russian Oil and Gas University, Moscow, Russia
+      year: 2010
+      description:
+        - Description 1.
+        - Description 2.     
 
 - title: Experience
   type: time_table
