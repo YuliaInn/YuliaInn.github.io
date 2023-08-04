@@ -21,3 +21,4 @@ I am a fifth-year PhD student in bioinformatics at the University of Missouri, C
 Beyond my academic endeavors, I am an active member of the Association of Women in Sciences (AWIS) St. Louis chapter, where I strive to promote diversity and empower women in STEM fields. Additionally, I serve as the Vice President of Alternative Career Exploration in the Sciences (ACES), a student organization dedicated to helping graduate students explore career paths beyond academia. Through ACES, I organize events and invite industry experts to campus, fostering an environment where fellow students can discover diverse career opportunities and thrive in various professional settings.
 
 I am driven by a passion for bioinformatics and its potential to revolutionize healthcare and cancer research. I am committed to pushing the boundaries of knowledge and making a positive impact in the scientific community. 
+
